@@ -1,0 +1,1956 @@
+{
+  "filename": "1378590_10K_2021_0001437749-21-028984.json",
+  "company": "Bridgeline Digital, Inc.",
+  "filing_date": "2021-12-20",
+  "period_of_report": "2021-09-30",
+  "notes": "",
+  "annotations": [
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 6075,
+      "end": 6087,
+      "text": "$2.4 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 6105,
+      "end": 6118,
+      "text": "$285 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 6181,
+      "end": 6194,
+      "text": "$376 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 6254,
+      "end": 6267,
+      "text": "$352 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 6814,
+      "end": 6826,
+      "text": "$1.3 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 6860,
+      "end": 6874,
+      "text": "\u20ac 600 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 6890,
+      "end": 6903,
+      "text": "$723 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7019,
+      "end": 7025,
+      "text": "$0.001"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7166,
+      "end": 7171,
+      "text": "$3.38"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7294,
+      "end": 7306,
+      "text": "$99 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7602,
+      "end": 7614,
+      "text": "$9.9 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7632,
+      "end": 7644,
+      "text": "$4.8 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7812,
+      "end": 7825,
+      "text": "$930 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7835,
+      "end": 7847,
+      "text": "$2.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8204,
+      "end": 8216,
+      "text": "$2.2 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8620,
+      "end": 8633,
+      "text": "$13.3 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8639,
+      "end": 8652,
+      "text": "$10.9 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8756,
+      "end": 8768,
+      "text": "$1.2 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8875,
+      "end": 8887,
+      "text": "$6.7 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8995,
+      "end": 9007,
+      "text": "$88 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9033,
+      "end": 9045,
+      "text": "$5.9 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9123,
+      "end": 9135,
+      "text": "$1.2 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9191,
+      "end": 9204,
+      "text": "$326 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9280,
+      "end": 9293,
+      "text": "$960 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9322,
+      "end": 9334,
+      "text": "$1.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9528,
+      "end": 9535,
+      "text": "($1.47)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9629,
+      "end": 9636,
+      "text": "($0.59)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9753,
+      "end": 9760,
+      "text": "$ 3,296"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9761,
+      "end": 9768,
+      "text": "$ 3,409"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9769,
+      "end": 9777,
+      "text": "$ (113 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9847,
+      "end": 9852,
+      "text": "9,963"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9853,
+      "end": 9858,
+      "text": "7,498"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9859,
+      "end": 9864,
+      "text": "2,465"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9912,
+      "end": 9918,
+      "text": "13,259"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9919,
+      "end": 9925,
+      "text": "10,907"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9926,
+      "end": 9931,
+      "text": "2,352"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9978,
+      "end": 9983,
+      "text": "1,743"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9984,
+      "end": 9989,
+      "text": "1,831"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9990,
+      "end": 9995,
+      "text": "(88 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10083,
+      "end": 10088,
+      "text": "2,790"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10089,
+      "end": 10094,
+      "text": "2,676"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10163,
+      "end": 10168,
+      "text": "4,533"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10169,
+      "end": 10174,
+      "text": "4,507"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10190,
+      "end": 10195,
+      "text": "8,726"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10196,
+      "end": 10201,
+      "text": "6,400"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10202,
+      "end": 10207,
+      "text": "2,326"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10273,
+      "end": 10278,
+      "text": "2,726"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10279,
+      "end": 10284,
+      "text": "2,614"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10337,
+      "end": 10342,
+      "text": "2,359"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10343,
+      "end": 10348,
+      "text": "2,455"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10349,
+      "end": 10354,
+      "text": "(96 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10410,
+      "end": 10415,
+      "text": "2,387"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10416,
+      "end": 10421,
+      "text": "1,641"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10477,
+      "end": 10482,
+      "text": "1,202"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10555,
+      "end": 10560,
+      "text": "1,235"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10611,
+      "end": 10616,
+      "text": "9,909"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10617,
+      "end": 10622,
+      "text": "8,044"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10623,
+      "end": 10628,
+      "text": "1,865"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10652,
+      "end": 10660,
+      "text": "(1,183 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10661,
+      "end": 10669,
+      "text": "(1,644 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10709,
+      "end": 10715,
+      "text": "(883 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10716,
+      "end": 10720,
+      "text": "(7 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10721,
+      "end": 10727,
+      "text": "(876 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10761,
+      "end": 10767,
+      "text": "(872 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10819,
+      "end": 10827,
+      "text": "(5,885 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10828,
+      "end": 10833,
+      "text": "1,028"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10834,
+      "end": 10842,
+      "text": "(6,913 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10885,
+      "end": 10893,
+      "text": "(7,863 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10894,
+      "end": 10902,
+      "text": "(8,200 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10955,
+      "end": 10963,
+      "text": "(1,174 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10964,
+      "end": 10972,
+      "text": "(1,185 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11002,
+      "end": 11012,
+      "text": "$ (6,689 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11015,
+      "end": 11025,
+      "text": "$ (7,015 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11070,
+      "end": 11077,
+      "text": "$ 1,839"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11078,
+      "end": 11086,
+      "text": "$ (116 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11087,
+      "end": 11094,
+      "text": "$ 1,955"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11434,
+      "end": 11447,
+      "text": "$113 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11459,
+      "end": 11471,
+      "text": "$3.3 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11492,
+      "end": 11504,
+      "text": "$3.4 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11767,
+      "end": 11780,
+      "text": "$325 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11948,
+      "end": 11960,
+      "text": "$2.5 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11973,
+      "end": 11986,
+      "text": "$10.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 12007,
+      "end": 12019,
+      "text": "$7.5 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 12224,
+      "end": 12236,
+      "text": "$2.6 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 12663,
+      "end": 12675,
+      "text": "$26 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 12687,
+      "end": 12699,
+      "text": "$4.5 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 12705,
+      "end": 12717,
+      "text": "$4.5 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 12946,
+      "end": 12958,
+      "text": "$88 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 12970,
+      "end": 12982,
+      "text": "$1.7 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13003,
+      "end": 13015,
+      "text": "$1.8 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13783,
+      "end": 13796,
+      "text": "$114 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13808,
+      "end": 13820,
+      "text": "$2.8 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13848,
+      "end": 13860,
+      "text": "$2.7 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14467,
+      "end": 14479,
+      "text": "$2.3 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14507,
+      "end": 14519,
+      "text": "$8.7 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14532,
+      "end": 14544,
+      "text": "$6.4 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15052,
+      "end": 15065,
+      "text": "$112 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15077,
+      "end": 15089,
+      "text": "$2.7 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15110,
+      "end": 15122,
+      "text": "$2.6 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15645,
+      "end": 15657,
+      "text": "$96 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15669,
+      "end": 15681,
+      "text": "$2.4 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15702,
+      "end": 15714,
+      "text": "$2.5 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16142,
+      "end": 16155,
+      "text": "$746 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16168,
+      "end": 16180,
+      "text": "$2.4 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8808,
+      "end": 8820,
+      "text": "$1.6 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16686,
+      "end": 16699,
+      "text": "$234 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16712,
+      "end": 16724,
+      "text": "$1.2 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16745,
+      "end": 16758,
+      "text": "$968 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 17281,
+      "end": 17293,
+      "text": "$1.2 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 17357,
+      "end": 17370,
+      "text": "$366 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 17653,
+      "end": 17665,
+      "text": "$1.2 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16201,
+      "end": 16213,
+      "text": "$1.6 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 17764,
+      "end": 17777,
+      "text": "$461 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 17980,
+      "end": 17992,
+      "text": "$5.9 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18105,
+      "end": 18117,
+      "text": "$1.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18273,
+      "end": 18285,
+      "text": "$88 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18290,
+      "end": 18303,
+      "text": "$960 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19023,
+      "end": 19035,
+      "text": "$88 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19152,
+      "end": 19165,
+      "text": "$883 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19170,
+      "end": 19181,
+      "text": "$7 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19321,
+      "end": 19335,
+      "text": "($1.2) million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19356,
+      "end": 19368,
+      "text": "$11 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20019,
+      "end": 20030,
+      "text": "$32 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20949,
+      "end": 20960,
+      "text": "$30 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 21169,
+      "end": 21181,
+      "text": "$1.1 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 21515,
+      "end": 21527,
+      "text": "$1.1 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24265,
+      "end": 24275,
+      "text": "$ (6,689 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24303,
+      "end": 24311,
+      "text": "(1,174 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24368,
+      "end": 24373,
+      "text": "(88 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24374,
+      "end": 24380,
+      "text": "(960 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10820,
+      "end": 10825,
+      "text": "5,885"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24420,
+      "end": 24428,
+      "text": "(1,028 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24463,
+      "end": 24468,
+      "text": "1,130"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24528,
+      "end": 24533,
+      "text": "1,235"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24594,
+      "end": 24601,
+      "text": "$ 1,442"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24602,
+      "end": 24610,
+      "text": "$ (116 )"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24897,
+      "end": 24910,
+      "text": "$989 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24979,
+      "end": 24992,
+      "text": "$498 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 25387,
+      "end": 25399,
+      "text": "$4.5 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 25739,
+      "end": 25752,
+      "text": "$13.5 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 25786,
+      "end": 25798,
+      "text": "$1.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 25918,
+      "end": 25931,
+      "text": "$14.3 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27030,
+      "end": 27042,
+      "text": "$5.8 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27208,
+      "end": 27213,
+      "text": "$4.00"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27363,
+      "end": 27369,
+      "text": "$0.001"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27395,
+      "end": 27400,
+      "text": "$2.28"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27648,
+      "end": 27654,
+      "text": "$1,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27767,
+      "end": 27772,
+      "text": "$2.51"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27960,
+      "end": 27972,
+      "text": "$4.6 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28081,
+      "end": 28087,
+      "text": "$0.001"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28179,
+      "end": 28184,
+      "text": "$3.10"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28362,
+      "end": 28374,
+      "text": "$2.5 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28599,
+      "end": 28611,
+      "text": "$2.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28687,
+      "end": 28699,
+      "text": "$2.2 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 29012,
+      "end": 29024,
+      "text": "$2.1 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 29050,
+      "end": 29063,
+      "text": "$732 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 29132,
+      "end": 29145,
+      "text": "$352 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 29262,
+      "end": 29275,
+      "text": "$376 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 29387,
+      "end": 29399,
+      "text": "$1.3 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 30106,
+      "end": 30116,
+      "text": "$1,047,500"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31053,
+      "end": 31065,
+      "text": "$88 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31437,
+      "end": 31450,
+      "text": "$550 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31455,
+      "end": 31468,
+      "text": "$236 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31493,
+      "end": 31506,
+      "text": "$185 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31511,
+      "end": 31524,
+      "text": "$101 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31626,
+      "end": 31638,
+      "text": "$1.9 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31648,
+      "end": 31661,
+      "text": "$732 thousand"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31752,
+      "end": 31764,
+      "text": "$3.4 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31774,
+      "end": 31786,
+      "text": "$1.2 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31876,
+      "end": 31888,
+      "text": "$2.4 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31898,
+      "end": 31910,
+      "text": "$2.2 million"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 174,
+      "end": 183,
+      "text": "Joni Kahn"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 209,
+      "end": 225,
+      "text": "Kenneth Galaznik"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 245,
+      "end": 258,
+      "text": "Scott Landers"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 281,
+      "end": 296,
+      "text": "Michael Taglich"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 306,
+      "end": 316,
+      "text": "Roger Kahn"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 365,
+      "end": 385,
+      "text": "Thomas R. Windhausen"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 744,
+      "end": 758,
+      "text": "Mark G. Downey"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 772,
+      "end": 781,
+      "text": "Joni Kahn"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 3836,
+      "end": 3852,
+      "text": "Kenneth Galaznik"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 5232,
+      "end": 5245,
+      "text": "Scott Landers"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 6996,
+      "end": 7011,
+      "text": "Michael Taglich"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 7211,
+      "end": 7225,
+      "text": "Robert Taglich"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 7592,
+      "end": 7607,
+      "text": "Michael Taglich"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 8156,
+      "end": 8166,
+      "text": "Roger Kahn"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 9047,
+      "end": 9064,
+      "text": "Thomas Windhausen"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 184,
+      "end": 195,
+      "text": "Chairperson"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 9,
+      "end": 17,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 226,
+      "end": 234,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 259,
+      "end": 267,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 297,
+      "end": 305,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 327,
+      "end": 336,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 341,
+      "end": 364,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 386,
+      "end": 409,
+      "text": "Chief Financial Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 418,
+      "end": 447,
+      "text": "Member of the Audit Committee"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 453,
+      "end": 489,
+      "text": "Member of the Compensation Committee"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 495,
+      "end": 544,
+      "text": "Member of the Nominating and Governance Committee"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 554,
+      "end": 574,
+      "text": "Independent director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 612,
+      "end": 635,
+      "text": "Chief Financial Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 640,
+      "end": 649,
+      "text": "Treasurer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 719,
+      "end": 742,
+      "text": "Chief Financial Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 880,
+      "end": 917,
+      "text": "Chairperson of the Board of Directors"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 942,
+      "end": 977,
+      "text": "Chair of the Compensation Committee"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1363,
+      "end": 1403,
+      "text": "Senior Vice President of Global Services"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1506,
+      "end": 1532,
+      "text": "Vice President of Services"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1614,
+      "end": 1638,
+      "text": "Executive Vice President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1950,
+      "end": 1977,
+      "text": "Senior Group Vice President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2350,
+      "end": 2382,
+      "text": "Member of the Board of Directors"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2605,
+      "end": 2629,
+      "text": "Executive Vice President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2634,
+      "end": 2641,
+      "text": "Partner"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 880,
+      "end": 891,
+      "text": "Chairperson"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 3929,
+      "end": 3970,
+      "text": "Chairman of the Company\u2019s Audit Committee"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1363,
+      "end": 1384,
+      "text": "Senior Vice President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 4088,
+      "end": 4111,
+      "text": "Chief Financial Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 4116,
+      "end": 4125,
+      "text": "Treasurer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 4429,
+      "end": 4454,
+      "text": "Vice President of Finance"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 4628,
+      "end": 4653,
+      "text": "Vice President of Finance"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 5321,
+      "end": 5379,
+      "text": "Chair of the Nominating and Corporate Governance Committee"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1375,
+      "end": 1384,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 5475,
+      "end": 5498,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 5594,
+      "end": 5617,
+      "text": "Chief Operating Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 5622,
+      "end": 5645,
+      "text": "Chief Financial Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 5887,
+      "end": 5919,
+      "text": "Vice President of Global Finance"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 6142,
+      "end": 6186,
+      "text": "Vice President of Finance and Administration"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 6314,
+      "end": 6340,
+      "text": "Business Assurance Manager"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 3929,
+      "end": 3937,
+      "text": "Chairman"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1511,
+      "end": 1520,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 7353,
+      "end": 7374,
+      "text": "Chairman of the Board"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 8267,
+      "end": 8290,
+      "text": "Chief Operating Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1629,
+      "end": 1638,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 8337,
+      "end": 8360,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 8511,
+      "end": 8526,
+      "text": "General Manager"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 8531,
+      "end": 8555,
+      "text": "Chief Technology Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 9093,
+      "end": 9116,
+      "text": "Chief Financial Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 9121,
+      "end": 9130,
+      "text": "Treasurer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 9193,
+      "end": 9206,
+      "text": "VP of Finance"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 9397,
+      "end": 9410,
+      "text": "VP of Finance"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1968,
+      "end": 1977,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 10161,
+      "end": 10184,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 184,
+      "end": 189,
+      "text": "Chair"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 13369,
+      "end": 13400,
+      "text": "Chairman of the Audit Committee"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 13430,
+      "end": 13462,
+      "text": "Audit Committee Financial Expert"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 880,
+      "end": 885,
+      "text": "Chair"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 942,
+      "end": 947,
+      "text": "Chair"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1408,
+      "end": 1426,
+      "text": "Big Machines, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1450,
+      "end": 1456,
+      "text": "Oracle"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1537,
+      "end": 1539,
+      "text": "HP"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1642,
+      "end": 1654,
+      "text": "BearingPoint"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2018,
+      "end": 2034,
+      "text": "Business Objects"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2270,
+      "end": 2286,
+      "text": "Business Objects"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2303,
+      "end": 2306,
+      "text": "SAP"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2387,
+      "end": 2394,
+      "text": "MapInfo"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2466,
+      "end": 2473,
+      "text": "MapInfo"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2524,
+      "end": 2531,
+      "text": "MapInfo"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2548,
+      "end": 2560,
+      "text": "Pitney Bowes"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2645,
+      "end": 2660,
+      "text": "KPMG Consulting"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 4129,
+      "end": 4167,
+      "text": "American Science and Engineering, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 4458,
+      "end": 4496,
+      "text": "American Science and Engineering, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 4657,
+      "end": 4693,
+      "text": "Spectro Analytical Instruments, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 5502,
+      "end": 5533,
+      "text": "Monotype Imaging Holdings, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 5923,
+      "end": 5944,
+      "text": "Pitney Bowes Software"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 5923,
+      "end": 5935,
+      "text": "Pitney Bowes"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 6190,
+      "end": 6197,
+      "text": "MapInfo"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 5973,
+      "end": 5985,
+      "text": "Pitney Bowes"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 6346,
+      "end": 6363,
+      "text": "Coopers & Lybrand"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 7104,
+      "end": 7126,
+      "text": "Taglich Brothers, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 7227,
+      "end": 7249,
+      "text": "Taglich Brothers, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 7378,
+      "end": 7403,
+      "text": "Air Industries Group Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 7470,
+      "end": 7495,
+      "text": "Mare Island Dry Dock Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 8394,
+      "end": 8412,
+      "text": "Bridgeline Digital"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 8434,
+      "end": 8441,
+      "text": "FatWire"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 8559,
+      "end": 8566,
+      "text": "FatWire"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 8657,
+      "end": 8664,
+      "text": "FatWire"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 8681,
+      "end": 8687,
+      "text": "Oracle"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 9416,
+      "end": 9448,
+      "text": "Comtech Telecommunications Corp."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 9578,
+      "end": 9608,
+      "text": "Dealertrack Technologies, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 9628,
+      "end": 9647,
+      "text": "Cox Automotive Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 9685,
+      "end": 9707,
+      "text": "PricewaterhouseCoopers"
+    }
+  ],
+  "schema_version": "1.0"
+}

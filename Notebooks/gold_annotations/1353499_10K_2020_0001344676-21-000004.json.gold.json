@@ -1,0 +1,472 @@
+{
+  "filename": "1353499_10K_2020_0001344676-21-000004.json",
+  "company": "Max Sound Corp",
+  "filing_date": "2021-03-26",
+  "period_of_report": "2020-12-31",
+  "notes": "",
+  "annotations": [
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 1438,
+      "end": 1445,
+      "text": "$30,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 2717,
+      "end": 2728,
+      "text": "$10,000,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 2753,
+      "end": 2758,
+      "text": "$.404"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 3305,
+      "end": 3317,
+      "text": "$ 15,703,617"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 4602,
+      "end": 4614,
+      "text": "$120 Billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7301,
+      "end": 7308,
+      "text": "$89,929"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7350,
+      "end": 7358,
+      "text": "$110,547"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7424,
+      "end": 7430,
+      "text": "20,618"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7654,
+      "end": 7656,
+      "text": "$0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7698,
+      "end": 7705,
+      "text": "$20,800"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7772,
+      "end": 7780,
+      "text": "$ 20,800"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7923,
+      "end": 7930,
+      "text": "$59,200"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7972,
+      "end": 7979,
+      "text": "$32,754"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8043,
+      "end": 8050,
+      "text": "$26,446"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8255,
+      "end": 8263,
+      "text": "$342,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8305,
+      "end": 8313,
+      "text": "$450,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8388,
+      "end": 8396,
+      "text": "$108,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8567,
+      "end": 8577,
+      "text": "$1,497,818"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9006,
+      "end": 9008,
+      "text": "$0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9013,
+      "end": 9015,
+      "text": "$0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9065,
+      "end": 9076,
+      "text": "$82,972,471"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9194,
+      "end": 9201,
+      "text": "$18,236"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10458,
+      "end": 10466,
+      "text": "$100,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10611,
+      "end": 10619,
+      "text": "$200,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10790,
+      "end": 10798,
+      "text": "$100,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10845,
+      "end": 10853,
+      "text": "$200,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10910,
+      "end": 10918,
+      "text": "$960,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11511,
+      "end": 11519,
+      "text": "$436,373"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11590,
+      "end": 11597,
+      "text": "$89,655"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13436,
+      "end": 13438,
+      "text": "$0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13443,
+      "end": 13445,
+      "text": "$0"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 83,
+      "end": 96,
+      "text": "John Blaisure"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 113,
+      "end": 125,
+      "text": "Greg Halpern"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 321,
+      "end": 333,
+      "text": "Greg Halpern"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 514,
+      "end": 526,
+      "text": "Greg Halpern"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 552,
+      "end": 564,
+      "text": "Greg Halpern"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 749,
+      "end": 761,
+      "text": "Greg Halpern"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 148,
+      "end": 157,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 162,
+      "end": 185,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 284,
+      "end": 292,
+      "text": "Chairman"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 294,
+      "end": 303,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 162,
+      "end": 177,
+      "text": "Chief Executive"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 178,
+      "end": 185,
+      "text": "Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 344,
+      "end": 367,
+      "text": "Chief Financial Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 528,
+      "end": 536,
+      "text": "Chairman"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 538,
+      "end": 541,
+      "text": "CFO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 544,
+      "end": 551,
+      "text": "Founder"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 840,
+      "end": 843,
+      "text": "CEO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 929,
+      "end": 952,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1037,
+      "end": 1040,
+      "text": "CEO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2162,
+      "end": 2170,
+      "text": "Chairman"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2172,
+      "end": 2181,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2183,
+      "end": 2206,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2211,
+      "end": 2234,
+      "text": "Chief Financial Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 3379,
+      "end": 3402,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 3407,
+      "end": 3430,
+      "text": "Chief Financial Officer"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 597,
+      "end": 602,
+      "text": "MAX-D"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 780,
+      "end": 801,
+      "text": "Max Sound Corporation"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 847,
+      "end": 874,
+      "text": "Circle Group Internet, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 956,
+      "end": 982,
+      "text": "Circle Group Holdings Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1070,
+      "end": 1090,
+      "text": "Z-Trim Holdings Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1601,
+      "end": 1666,
+      "text": "People for Ultimate Kindness Toward All Living Creatures on Earth"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1841,
+      "end": 1855,
+      "text": "So Act Network"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1887,
+      "end": 1901,
+      "text": "So Act Network"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2238,
+      "end": 2259,
+      "text": "Max Sound Corporation"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2341,
+      "end": 2362,
+      "text": "Max Sound Corporation"
+    }
+  ],
+  "schema_version": "1.0"
+}

@@ -1,0 +1,360 @@
+{
+  "filename": "1082324_10K_2020_0001140361-21-008678.json",
+  "company": "VirnetX Holding Corp",
+  "filing_date": "2021-03-16",
+  "period_of_report": "2020-12-31",
+  "notes": "",
+  "annotations": [
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 6717,
+      "end": 6725,
+      "text": "$368,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7619,
+      "end": 7627,
+      "text": "$302,400"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7926,
+      "end": 7931,
+      "text": "$1.20"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7935,
+      "end": 7940,
+      "text": "$1.80"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8069,
+      "end": 8077,
+      "text": "$439,700"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8089,
+      "end": 8097,
+      "text": "$302,400"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8114,
+      "end": 8121,
+      "text": "$41,300"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8145,
+      "end": 8152,
+      "text": "$96,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 9087,
+      "end": 9095,
+      "text": "$454,034"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10169,
+      "end": 10177,
+      "text": "$502,600"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 10275,
+      "end": 10280,
+      "text": "$1.20"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11758,
+      "end": 11766,
+      "text": "$502,800"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 11949,
+      "end": 11954,
+      "text": "$0.84"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15512,
+      "end": 15519,
+      "text": "$36,300"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18240,
+      "end": 18244,
+      "text": "$324"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18250,
+      "end": 18256,
+      "text": "$1,790"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18696,
+      "end": 18698,
+      "text": "$8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 33820,
+      "end": 33827,
+      "text": "302,636"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 33889,
+      "end": 33897,
+      "text": "$302,636"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 33958,
+      "end": 33961,
+      "text": "$85"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 34048,
+      "end": 34056,
+      "text": "$454,034"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 34859,
+      "end": 34866,
+      "text": "$90,101"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35097,
+      "end": 35102,
+      "text": "8,830"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35105,
+      "end": 35110,
+      "text": "3,845"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35397,
+      "end": 35403,
+      "text": "$8,830"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35437,
+      "end": 35443,
+      "text": "$3,845"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35619,
+      "end": 35625,
+      "text": "45,812"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35628,
+      "end": 35634,
+      "text": "15,905"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35921,
+      "end": 35928,
+      "text": "$45,812"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35962,
+      "end": 35969,
+      "text": "$15,905"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 36141,
+      "end": 36148,
+      "text": "$30,699"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 36153,
+      "end": 36159,
+      "text": "$5,898"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 36385,
+      "end": 36392,
+      "text": "$41,271"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 36675,
+      "end": 36682,
+      "text": "108,288"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 36758,
+      "end": 36766,
+      "text": "$108,288"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 36800,
+      "end": 36803,
+      "text": "$92"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 36841,
+      "end": 36849,
+      "text": "$108,221"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37739,
+      "end": 37747,
+      "text": "$307,452"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37785,
+      "end": 37792,
+      "text": "$19,573"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37865,
+      "end": 37873,
+      "text": "$107,989"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 38150,
+      "end": 38158,
+      "text": "$192,908"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 38198,
+      "end": 38205,
+      "text": "$28,348"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 38218,
+      "end": 38224,
+      "text": "$3,135"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 38229,
+      "end": 38235,
+      "text": "$2,394"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 38897,
+      "end": 38905,
+      "text": "$100,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 39236,
+      "end": 39243,
+      "text": "$50,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 39571,
+      "end": 39578,
+      "text": "$21,964"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 39768,
+      "end": 39773,
+      "text": "$4.41"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 39824,
+      "end": 39830,
+      "text": "$4,627"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 39922,
+      "end": 39926,
+      "text": "$139"
+    }
+  ],
+  "schema_version": "1.0"
+}

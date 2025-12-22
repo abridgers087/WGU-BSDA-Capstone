@@ -1,0 +1,2047 @@
+{
+  "filename": "1327567_10K_2021_0001327567-21-000029.json",
+  "company": "Palo Alto Networks Inc",
+  "filing_date": "2021-09-03",
+  "period_of_report": "2021-07-31",
+  "notes": "",
+  "annotations": [
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 6005,
+      "end": 6017,
+      "text": "$4.3 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 6022,
+      "end": 6034,
+      "text": "$3.4 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7052,
+      "end": 7064,
+      "text": "$1.1 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 8178,
+      "end": 8190,
+      "text": "$3.1 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14245,
+      "end": 14254,
+      "text": "$ 5,024.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14255,
+      "end": 14264,
+      "text": "$ 3,810.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14305,
+      "end": 14314,
+      "text": "$ 3,789.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14315,
+      "end": 14324,
+      "text": "$ 4,302.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14396,
+      "end": 14405,
+      "text": "$ 4,256.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14406,
+      "end": 14415,
+      "text": "$ 3,408.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14416,
+      "end": 14425,
+      "text": "$ 2,899.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14545,
+      "end": 14554,
+      "text": "$ (304.1)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14555,
+      "end": 14564,
+      "text": "$ (179.0)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14565,
+      "end": 14573,
+      "text": "$ (54.1)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14624,
+      "end": 14633,
+      "text": "$ 5,452.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14634,
+      "end": 14643,
+      "text": "$ 4,301.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14644,
+      "end": 14653,
+      "text": "$ 3,489.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14762,
+      "end": 14771,
+      "text": "$ 1,503.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14772,
+      "end": 14781,
+      "text": "$ 1,035.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14782,
+      "end": 14791,
+      "text": "$ 1,055.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14818,
+      "end": 14827,
+      "text": "$ 1,387.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14828,
+      "end": 14835,
+      "text": "$ 821.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14836,
+      "end": 14843,
+      "text": "$ 924.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16768,
+      "end": 16777,
+      "text": "$ 4,256.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16778,
+      "end": 16787,
+      "text": "$ 3,408.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16788,
+      "end": 16797,
+      "text": "$ 2,899.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16870,
+      "end": 16877,
+      "text": "1,196.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16878,
+      "end": 16883,
+      "text": "893.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16884,
+      "end": 16889,
+      "text": "590.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16899,
+      "end": 16908,
+      "text": "$ 5,452.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16909,
+      "end": 16918,
+      "text": "$ 4,301.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16919,
+      "end": 16928,
+      "text": "$ 3,489.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18804,
+      "end": 18813,
+      "text": "$ 1,503.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18814,
+      "end": 18823,
+      "text": "$ 1,035.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18824,
+      "end": 18833,
+      "text": "$ 1,055.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18891,
+      "end": 18896,
+      "text": "116.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18897,
+      "end": 18902,
+      "text": "214.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18903,
+      "end": 18908,
+      "text": "131.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18935,
+      "end": 18944,
+      "text": "$ 1,387.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18945,
+      "end": 18952,
+      "text": "$ 821.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 18953,
+      "end": 18960,
+      "text": "$ 924.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19013,
+      "end": 19024,
+      "text": "$ (1,480.6)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19025,
+      "end": 19032,
+      "text": "$ 288.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19033,
+      "end": 19044,
+      "text": "$ (1,825.9)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19097,
+      "end": 19108,
+      "text": "$ (1,104.0)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19109,
+      "end": 19116,
+      "text": "$ 673.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19117,
+      "end": 19126,
+      "text": "$ (773.9)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19593,
+      "end": 19602,
+      "text": "$ 1,120.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19610,
+      "end": 19619,
+      "text": "$ 1,064.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19627,
+      "end": 19636,
+      "text": "$ 1,096.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19669,
+      "end": 19676,
+      "text": "3,135.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19684,
+      "end": 19691,
+      "text": "2,344.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19699,
+      "end": 19706,
+      "text": "1,803.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19801,
+      "end": 19806,
+      "text": "308.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19813,
+      "end": 19818,
+      "text": "294.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19825,
+      "end": 19830,
+      "text": "315.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19863,
+      "end": 19868,
+      "text": "966.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19876,
+      "end": 19881,
+      "text": "705.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19889,
+      "end": 19894,
+      "text": "492.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19927,
+      "end": 19934,
+      "text": "1,274.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19942,
+      "end": 19947,
+      "text": "999.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19955,
+      "end": 19960,
+      "text": "808.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19987,
+      "end": 19994,
+      "text": "2,981.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20002,
+      "end": 20009,
+      "text": "2,408.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20017,
+      "end": 20024,
+      "text": "2,091.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20077,
+      "end": 20084,
+      "text": "1,140.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20092,
+      "end": 20097,
+      "text": "768.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20105,
+      "end": 20110,
+      "text": "539.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20138,
+      "end": 20145,
+      "text": "1,753.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20153,
+      "end": 20160,
+      "text": "1,520.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20168,
+      "end": 20175,
+      "text": "1,344.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20210,
+      "end": 20215,
+      "text": "391.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20222,
+      "end": 20227,
+      "text": "299.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20234,
+      "end": 20239,
+      "text": "261.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20274,
+      "end": 20281,
+      "text": "3,285.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20289,
+      "end": 20296,
+      "text": "2,587.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20304,
+      "end": 20311,
+      "text": "2,145.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23061,
+      "end": 23070,
+      "text": "$ 1,898.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23071,
+      "end": 23080,
+      "text": "$ 1,405.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23081,
+      "end": 23088,
+      "text": "$ 493.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23096,
+      "end": 23105,
+      "text": "$ 1,405.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23106,
+      "end": 23115,
+      "text": "$ 1,032.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23116,
+      "end": 23123,
+      "text": "$ 372.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23139,
+      "end": 23146,
+      "text": "1,237.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23147,
+      "end": 23152,
+      "text": "938.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23153,
+      "end": 23158,
+      "text": "298.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23166,
+      "end": 23171,
+      "text": "938.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23172,
+      "end": 23177,
+      "text": "770.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23178,
+      "end": 23183,
+      "text": "168.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23222,
+      "end": 23231,
+      "text": "$ 3,135.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23232,
+      "end": 23241,
+      "text": "$ 2,344.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23242,
+      "end": 23249,
+      "text": "$ 791.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23257,
+      "end": 23266,
+      "text": "$ 2,344.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23267,
+      "end": 23276,
+      "text": "$ 1,803.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23277,
+      "end": 23284,
+      "text": "$ 540.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23894,
+      "end": 23903,
+      "text": "$ 2,937.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23904,
+      "end": 23913,
+      "text": "$ 2,318.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23914,
+      "end": 23921,
+      "text": "$ 619.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23929,
+      "end": 23938,
+      "text": "$ 2,318.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23939,
+      "end": 23948,
+      "text": "$ 1,977.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23949,
+      "end": 23956,
+      "text": "$ 341.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23969,
+      "end": 23974,
+      "text": "817.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23975,
+      "end": 23980,
+      "text": "671.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23981,
+      "end": 23986,
+      "text": "145.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 23994,
+      "end": 23999,
+      "text": "671.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24000,
+      "end": 24005,
+      "text": "568.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24006,
+      "end": 24011,
+      "text": "103.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24024,
+      "end": 24029,
+      "text": "501.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24030,
+      "end": 24035,
+      "text": "418.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24036,
+      "end": 24040,
+      "text": "82.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24048,
+      "end": 24053,
+      "text": "418.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24054,
+      "end": 24059,
+      "text": "354.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 21067,
+      "end": 21071,
+      "text": "64.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24086,
+      "end": 24095,
+      "text": "$ 4,256.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24096,
+      "end": 24105,
+      "text": "$ 3,408.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24106,
+      "end": 24113,
+      "text": "$ 847.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24121,
+      "end": 24130,
+      "text": "$ 3,408.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24131,
+      "end": 24140,
+      "text": "$ 2,899.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 24141,
+      "end": 24148,
+      "text": "$ 508.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 25576,
+      "end": 25583,
+      "text": "$ 308.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 25584,
+      "end": 25591,
+      "text": "$ 294.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 25592,
+      "end": 25598,
+      "text": "$ 14.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 25605,
+      "end": 25612,
+      "text": "$ 294.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 25613,
+      "end": 25620,
+      "text": "$ 315.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 25621,
+      "end": 25629,
+      "text": "$ (21.5)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14547,
+      "end": 14554,
+      "text": "(304.1)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14557,
+      "end": 14564,
+      "text": "(179.0)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14567,
+      "end": 14573,
+      "text": "(54.1)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20398,
+      "end": 20405,
+      "text": "(163.3)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20414,
+      "end": 20420,
+      "text": "(88.7)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20429,
+      "end": 20435,
+      "text": "(83.9)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20462,
+      "end": 20465,
+      "text": "2.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20472,
+      "end": 20476,
+      "text": "35.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20483,
+      "end": 20487,
+      "text": "63.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20519,
+      "end": 20526,
+      "text": "(465.0)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20536,
+      "end": 20543,
+      "text": "(231.8)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20552,
+      "end": 20558,
+      "text": "(74.6)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20594,
+      "end": 20598,
+      "text": "33.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20605,
+      "end": 20609,
+      "text": "35.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20616,
+      "end": 20619,
+      "text": "7.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20635,
+      "end": 20644,
+      "text": "$ (498.9)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20654,
+      "end": 20663,
+      "text": "$ (267.0)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20672,
+      "end": 20680,
+      "text": "$ (81.9)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20826,
+      "end": 20831,
+      "text": "$ 6.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20832,
+      "end": 20837,
+      "text": "$ 5.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20838,
+      "end": 20843,
+      "text": "$ 5.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20885,
+      "end": 20889,
+      "text": "93.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20890,
+      "end": 20894,
+      "text": "77.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20895,
+      "end": 20899,
+      "text": "71.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20925,
+      "end": 20930,
+      "text": "428.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20931,
+      "end": 20936,
+      "text": "274.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20937,
+      "end": 20942,
+      "text": "186.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20963,
+      "end": 20968,
+      "text": "269.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20969,
+      "end": 20974,
+      "text": "214.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 20975,
+      "end": 20980,
+      "text": "221.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 21008,
+      "end": 21013,
+      "text": "128.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 21014,
+      "end": 21018,
+      "text": "92.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 21019,
+      "end": 21024,
+      "text": "102.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 21056,
+      "end": 21063,
+      "text": "$ 926.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 21064,
+      "end": 21071,
+      "text": "$ 664.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 21072,
+      "end": 21079,
+      "text": "$ 587.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 22083,
+      "end": 22092,
+      "text": "$ 1,120.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 22093,
+      "end": 22102,
+      "text": "$ 1,064.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 22103,
+      "end": 22109,
+      "text": "$ 56.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 22116,
+      "end": 22125,
+      "text": "$ 1,064.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 22126,
+      "end": 22135,
+      "text": "$ 1,096.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 22137,
+      "end": 22144,
+      "text": " (32.0)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 26752,
+      "end": 26759,
+      "text": "$ 966.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 26760,
+      "end": 26767,
+      "text": "$ 705.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 26768,
+      "end": 26775,
+      "text": "$ 261.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 26783,
+      "end": 26790,
+      "text": "$ 705.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 26791,
+      "end": 26798,
+      "text": "$ 492.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 26799,
+      "end": 26806,
+      "text": "$ 212.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27104,
+      "end": 27117,
+      "text": "$97.1 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27121,
+      "end": 27135,
+      "text": "$412.4 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27320,
+      "end": 27332,
+      "text": "45.6 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28414,
+      "end": 28421,
+      "text": "$ 811.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28429,
+      "end": 28436,
+      "text": "$ 769.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28444,
+      "end": 28451,
+      "text": "$ 780.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28484,
+      "end": 28491,
+      "text": "2,169.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28499,
+      "end": 28506,
+      "text": "1,639.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28514,
+      "end": 28521,
+      "text": "1,310.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28548,
+      "end": 28557,
+      "text": "$ 2,981.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28565,
+      "end": 28574,
+      "text": "$ 2,408.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28582,
+      "end": 28591,
+      "text": "$ 2,091.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 30035,
+      "end": 30047,
+      "text": "$2.0 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 30971,
+      "end": 30980,
+      "text": "$ 1,140.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 30981,
+      "end": 30988,
+      "text": "$ 768.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 30989,
+      "end": 30996,
+      "text": "$ 372.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31004,
+      "end": 31011,
+      "text": "$ 768.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31012,
+      "end": 31019,
+      "text": "$ 539.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31020,
+      "end": 31027,
+      "text": "$ 228.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31248,
+      "end": 31262,
+      "text": "$321.2 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 31266,
+      "end": 31280,
+      "text": "$911.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 32262,
+      "end": 32271,
+      "text": "$ 1,753.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 32272,
+      "end": 32281,
+      "text": "$ 1,520.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 32282,
+      "end": 32289,
+      "text": "$ 233.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 32297,
+      "end": 32306,
+      "text": "$ 1,520.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 32307,
+      "end": 32316,
+      "text": "$ 1,344.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 32317,
+      "end": 32324,
+      "text": "$ 176.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 32550,
+      "end": 32564,
+      "text": "$186.9 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 32568,
+      "end": 32580,
+      "text": "$1.3 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 33998,
+      "end": 34005,
+      "text": "$ 391.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 34006,
+      "end": 34013,
+      "text": "$ 299.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 34014,
+      "end": 34020,
+      "text": "$ 91.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 34028,
+      "end": 34035,
+      "text": "$ 299.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 34036,
+      "end": 34043,
+      "text": "$ 261.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 34044,
+      "end": 34050,
+      "text": "$ 37.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 34261,
+      "end": 34274,
+      "text": "$48.9 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 34278,
+      "end": 34292,
+      "text": "$244.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35242,
+      "end": 35249,
+      "text": "$ 163.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35250,
+      "end": 35256,
+      "text": "$ 88.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35257,
+      "end": 35263,
+      "text": "$ 74.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35271,
+      "end": 35277,
+      "text": "$ 88.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35278,
+      "end": 35284,
+      "text": "$ 83.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35285,
+      "end": 35290,
+      "text": "$ 4.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35957,
+      "end": 35962,
+      "text": "$ 2.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35963,
+      "end": 35969,
+      "text": "$ 35.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35970,
+      "end": 35978,
+      "text": "$ (33.5)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35988,
+      "end": 35994,
+      "text": "$ 35.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 35995,
+      "end": 36001,
+      "text": "$ 63.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 36002,
+      "end": 36010,
+      "text": "$ (27.5)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37206,
+      "end": 37212,
+      "text": "$ 33.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37213,
+      "end": 37219,
+      "text": "$ 35.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37220,
+      "end": 37227,
+      "text": "$ (1.3)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37236,
+      "end": 37242,
+      "text": "$ 35.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37243,
+      "end": 37248,
+      "text": "$ 7.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37249,
+      "end": 37255,
+      "text": "$ 27.9"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37850,
+      "end": 37859,
+      "text": "$ (469.4)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37860,
+      "end": 37869,
+      "text": "$ 2,437.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37937,
+      "end": 37946,
+      "text": "$ 1,874.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37947,
+      "end": 37956,
+      "text": "$ 2,958.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37969,
+      "end": 37976,
+      "text": "1,915.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 37977,
+      "end": 37984,
+      "text": "1,344.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 38031,
+      "end": 38040,
+      "text": "$ 3,789.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 38041,
+      "end": 38050,
+      "text": "$ 4,302.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 38126,
+      "end": 38137,
+      "text": "3.8 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 38203,
+      "end": 38217,
+      "text": "$942.3 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 38743,
+      "end": 38756,
+      "text": "575.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 38885,
+      "end": 38898,
+      "text": "575.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 39266,
+      "end": 39277,
+      "text": "1.7 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 30036,
+      "end": 30047,
+      "text": "2.0 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 40753,
+      "end": 40766,
+      "text": "400.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 40913,
+      "end": 40926,
+      "text": "350.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 41266,
+      "end": 41277,
+      "text": "1.0 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 41364,
+      "end": 41377,
+      "text": "700.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 41457,
+      "end": 41468,
+      "text": "1.7 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 41522,
+      "end": 41535,
+      "text": "323.9 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 41681,
+      "end": 41694,
+      "text": "676.1 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 41810,
+      "end": 41821,
+      "text": "1.0 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 42159,
+      "end": 42170,
+      "text": "1.0 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 42776,
+      "end": 42785,
+      "text": "$ 1,503.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 42786,
+      "end": 42795,
+      "text": "$ 1,035.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 42796,
+      "end": 42805,
+      "text": "$ 1,055.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19015,
+      "end": 19024,
+      "text": "(1,480.6)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19027,
+      "end": 19032,
+      "text": "288.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19035,
+      "end": 19044,
+      "text": "(1,825.9)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19099,
+      "end": 19108,
+      "text": "(1,104.0)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19111,
+      "end": 19116,
+      "text": "673.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 19119,
+      "end": 19126,
+      "text": "(773.9)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 43031,
+      "end": 43042,
+      "text": "$ (1,081.6)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 43043,
+      "end": 43052,
+      "text": "$ 1,996.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 43053,
+      "end": 43064,
+      "text": "$ (1,544.2)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 44892,
+      "end": 44903,
+      "text": "1.5 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 44921,
+      "end": 44934,
+      "text": "467.3 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 44891,
+      "end": 44903,
+      "text": "$1.5 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 45495,
+      "end": 45507,
+      "text": "$1.8 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 45561,
+      "end": 45575,
+      "text": "$288.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46108,
+      "end": 46120,
+      "text": "$1.1 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46138,
+      "end": 46150,
+      "text": "$1.8 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46204,
+      "end": 46217,
+      "text": "673.0 million"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46282,
+      "end": 46294,
+      "text": "$1.8 billion"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46677,
+      "end": 46686,
+      "text": "$ 1,692.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46691,
+      "end": 46700,
+      "text": "$ 1,692.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46750,
+      "end": 46757,
+      "text": "2,000.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46762,
+      "end": 46769,
+      "text": "2,000.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46800,
+      "end": 46805,
+      "text": "426.6"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46806,
+      "end": 46810,
+      "text": "78.8"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46811,
+      "end": 46816,
+      "text": "134.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46817,
+      "end": 46822,
+      "text": "116.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46823,
+      "end": 46827,
+      "text": "97.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46852,
+      "end": 46859,
+      "text": "1,831.7"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46860,
+      "end": 46865,
+      "text": "251.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46866,
+      "end": 46871,
+      "text": "609.0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46872,
+      "end": 46877,
+      "text": "971.4"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46889,
+      "end": 46898,
+      "text": "$ 5,950.3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46899,
+      "end": 46906,
+      "text": "$ 330.1"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46907,
+      "end": 46916,
+      "text": "$ 2,435.2"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46917,
+      "end": 46926,
+      "text": "$ 3,087.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 46929,
+      "end": 46933,
+      "text": "97.5"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 47413,
+      "end": 47425,
+      "text": "80.6 million"
+    }
+  ],
+  "schema_version": "1.0"
+}

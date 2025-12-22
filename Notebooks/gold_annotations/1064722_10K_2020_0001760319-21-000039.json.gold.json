@@ -1,0 +1,514 @@
+{
+  "filename": "1064722_10K_2020_0001760319-21-000039.json",
+  "company": "GIVEMEPOWER CORP",
+  "filing_date": "2021-04-14",
+  "period_of_report": "2020-12-31",
+  "notes": "",
+  "annotations": [
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7244,
+      "end": 7251,
+      "text": "$38,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 7244,
+      "end": 7246,
+      "text": "$3"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 26549,
+      "end": 26559,
+      "text": "$1,205,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 26601,
+      "end": 26609,
+      "text": "$423,136"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 26633,
+      "end": 26643,
+      "text": "$1,628,136"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 26688,
+      "end": 26692,
+      "text": "$464"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27008,
+      "end": 27018,
+      "text": "$1,179,827"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27023,
+      "end": 27030,
+      "text": "374,691"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27099,
+      "end": 27107,
+      "text": "$159,463"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 27902,
+      "end": 27909,
+      "text": "$82,980"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28343,
+      "end": 28350,
+      "text": "540,524"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28413,
+      "end": 28419,
+      "text": "63,632"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28422,
+      "end": 28428,
+      "text": "41,200"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 28493,
+      "end": 28497,
+      "text": "$500"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 40911,
+      "end": 40918,
+      "text": "$63,632"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 776,
+      "end": 796,
+      "text": "Mr. Frank I Igwealor"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 883,
+      "end": 903,
+      "text": "Mr. Patience Ogbozor"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 938,
+      "end": 965,
+      "text": "Bishop Christopher E Milton"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 1000,
+      "end": 1023,
+      "text": "Dr. Solomon K.S. Mbagwu"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 3829,
+      "end": 3846,
+      "text": "Solomon KN Mbagwu"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 1724,
+      "end": 1738,
+      "text": "Frank Igwealor"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 2724,
+      "end": 2747,
+      "text": "Ms. Patience C. Ogbozor"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 3155,
+      "end": 3183,
+      "text": "Bishop Christopher E. Milton"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 3825,
+      "end": 3846,
+      "text": "Dr. Solomon KN Mbagwu"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 780,
+      "end": 796,
+      "text": "Frank I Igwealor"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 10579,
+      "end": 10595,
+      "text": "Frank I Igwealor"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 797,
+      "end": 805,
+      "text": "Chairman"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 86,
+      "end": 94,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 820,
+      "end": 835,
+      "text": "Chief Executive"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 840,
+      "end": 857,
+      "text": "Financial Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 218,
+      "end": 226,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 807,
+      "end": 815,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 904,
+      "end": 912,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1740,
+      "end": 1743,
+      "text": "CPA"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1745,
+      "end": 1748,
+      "text": "CMA"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1750,
+      "end": 1752,
+      "text": "JD"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1754,
+      "end": 1757,
+      "text": "MBA"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1759,
+      "end": 1763,
+      "text": "MSRM"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1899,
+      "end": 1926,
+      "text": "Certified Financial Manager"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1928,
+      "end": 1959,
+      "text": "Certified Management Accountant"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1961,
+      "end": 1988,
+      "text": "Certified Public Accountant"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2006,
+      "end": 2014,
+      "text": "Attorney"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2112,
+      "end": 2115,
+      "text": "CPA"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2117,
+      "end": 2120,
+      "text": "CMA"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2122,
+      "end": 2125,
+      "text": "CFM"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 966,
+      "end": 974,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2778,
+      "end": 2787,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2792,
+      "end": 2795,
+      "text": "CEO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1024,
+      "end": 1032,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 3241,
+      "end": 3254,
+      "text": "Senior Pastor"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 3356,
+      "end": 3411,
+      "text": "Jurisdictional Prelate Southern California Evangelistic"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 3605,
+      "end": 3669,
+      "text": "Chairman of the Internal Audit Committee of the Board of Bishops"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 3605,
+      "end": 3613,
+      "text": "Chairman"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 3877,
+      "end": 3879,
+      "text": "MD"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1625,
+      "end": 1633,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 5699,
+      "end": 5727,
+      "text": "Chair of our Audit Committee"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 10601,
+      "end": 10610,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 10612,
+      "end": 10635,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 10640,
+      "end": 10663,
+      "text": "Chief Financial Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 12945,
+      "end": 12954,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 12956,
+      "end": 12979,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 12984,
+      "end": 13007,
+      "text": "Chief Financial Officer"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2799,
+      "end": 2822,
+      "text": "Cannabinoid Biosciences"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2927,
+      "end": 2950,
+      "text": "Goldstein Franklin Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2952,
+      "end": 2986,
+      "text": "Kid Castle Educational Corporation"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2988,
+      "end": 3015,
+      "text": "Video Rivers Networks, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 3020,
+      "end": 3048,
+      "text": "Opportunity Zone Capital LLC"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 3109,
+      "end": 3127,
+      "text": "New Haven Pharmacy"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 3428,
+      "end": 3461,
+      "text": "The Church of God in Christ, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 3673,
+      "end": 3706,
+      "text": "The Church of God in Christ, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 3800,
+      "end": 3823,
+      "text": "GiveMePower Corporation"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 13012,
+      "end": 13035,
+      "text": "GiveMePower Corporation"
+    }
+  ],
+  "schema_version": "1.0"
+}

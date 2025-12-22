@@ -1,0 +1,297 @@
+{
+  "filename": "1066684_10K_2020_0001104659-21-042359.json",
+  "company": "THEGLOBE COM INC",
+  "filing_date": "2021-03-26",
+  "period_of_report": "2020-12-31",
+  "notes": "",
+  "annotations": [
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 1935,
+      "end": 1937,
+      "text": "$0"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 2259,
+      "end": 2267,
+      "text": "$118,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 2309,
+      "end": 2317,
+      "text": "$178,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 2596,
+      "end": 2603,
+      "text": "$46,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 2608,
+      "end": 2615,
+      "text": "$34,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 2859,
+      "end": 2867,
+      "text": "$164,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 2911,
+      "end": 2919,
+      "text": "$211,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 4093,
+      "end": 4101,
+      "text": "$150,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 4123,
+      "end": 4131,
+      "text": "$350,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 4149,
+      "end": 4157,
+      "text": "$465,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 4179,
+      "end": 4187,
+      "text": "$554,100"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 4207,
+      "end": 4215,
+      "text": "$600,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 4291,
+      "end": 4299,
+      "text": "$637,500"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 4920,
+      "end": 4928,
+      "text": "$707,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 4986,
+      "end": 4993,
+      "text": "$24,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 5029,
+      "end": 5035,
+      "text": "$2,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 5054,
+      "end": 5062,
+      "text": "$689,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 5259,
+      "end": 5265,
+      "text": "$7,624"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 5289,
+      "end": 5296,
+      "text": "$86,961"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 5512,
+      "end": 5520,
+      "text": "$125,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 5627,
+      "end": 5635,
+      "text": "$173,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 5744,
+      "end": 5751,
+      "text": "$46,000"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 5801,
+      "end": 5809,
+      "text": "$254,000"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 256,
+      "end": 271,
+      "text": "Frederick Jones"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 1037,
+      "end": 1052,
+      "text": "Frederick Jones"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 3552,
+      "end": 3567,
+      "text": "Frederick Jones"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 7976,
+      "end": 7991,
+      "text": "Frederick Jones"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 8278,
+      "end": 8293,
+      "text": "Frederick Jones"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 272,
+      "end": 281,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 283,
+      "end": 306,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 308,
+      "end": 331,
+      "text": "Chief\nFinancial Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 162,
+      "end": 170,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1360,
+      "end": 1383,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1698,
+      "end": 1701,
+      "text": "CEO"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 780,
+      "end": 786,
+      "text": "Delfin"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1387,
+      "end": 1424,
+      "text": "Fairwood Peninsula Energy Corporation"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1549,
+      "end": 1571,
+      "text": "Delfin Midstream, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1705,
+      "end": 1731,
+      "text": "Energy Global Services FZE"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1736,
+      "end": 1771,
+      "text": "Asiatic Gas Energy Holdings Limited"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1912,
+      "end": 1944,
+      "text": "Marc Rich + Co A.G., Switzerland"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1959,
+      "end": 1971,
+      "text": "Glencore Plc"
+    }
+  ],
+  "schema_version": "1.0"
+}

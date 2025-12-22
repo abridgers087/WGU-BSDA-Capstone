@@ -1,0 +1,885 @@
+{
+  "filename": "1017655_10K_2020_0001654954-21-003649.json",
+  "company": "PAID INC",
+  "filing_date": "2021-03-31",
+  "period_of_report": "2020-12-31",
+  "notes": "",
+  "annotations": [
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13031,
+      "end": 13037,
+      "text": "$3,541"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13038,
+      "end": 13045,
+      "text": "$19,395"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13081,
+      "end": 13087,
+      "text": "27,845"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13088,
+      "end": 13095,
+      "text": "148,035"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13130,
+      "end": 13137,
+      "text": "114,881"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13138,
+      "end": 13145,
+      "text": "193,150"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13181,
+      "end": 13188,
+      "text": "425,839"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13189,
+      "end": 13194,
+      "text": "2,011"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13255,
+      "end": 13265,
+      "text": "12,348,683"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13266,
+      "end": 13276,
+      "text": "10,185,704"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13296,
+      "end": 13307,
+      "text": "$12,920,789"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13308,
+      "end": 13319,
+      "text": "$10,548,295"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13567,
+      "end": 13574,
+      "text": "$15,854"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13585,
+      "end": 13591,
+      "text": "$3,541"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13604,
+      "end": 13611,
+      "text": "$19,395"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13766,
+      "end": 13774,
+      "text": "$120,190"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13785,
+      "end": 13792,
+      "text": "$27,845"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 13805,
+      "end": 13813,
+      "text": "$148,035"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14072,
+      "end": 14079,
+      "text": "$78,269"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14090,
+      "end": 14098,
+      "text": "$114,881"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14119,
+      "end": 14127,
+      "text": "$193,150"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14444,
+      "end": 14452,
+      "text": "$423,828"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14456,
+      "end": 14464,
+      "text": "$425,839"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14478,
+      "end": 14484,
+      "text": "$2,011"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14690,
+      "end": 14700,
+      "text": "$2,162,979"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14711,
+      "end": 14722,
+      "text": "$12,348,683"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14743,
+      "end": 14754,
+      "text": "$10,185,704"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14967,
+      "end": 14975,
+      "text": "$364,548"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 14986,
+      "end": 14996,
+      "text": "$3,111,289"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15017,
+      "end": 15027,
+      "text": "$2,746,741"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15325,
+      "end": 15335,
+      "text": "$5,242,763"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15348,
+      "end": 15358,
+      "text": "$3,458,774"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15383,
+      "end": 15393,
+      "text": "$1,783,989"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15526,
+      "end": 15533,
+      "text": "$21,128"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15546,
+      "end": 15554,
+      "text": "$991,840"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15597,
+      "end": 15605,
+      "text": "$970,712"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15777,
+      "end": 15789,
+      "text": "$(2,232,553)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15818,
+      "end": 15826,
+      "text": "$282,011"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15907,
+      "end": 15914,
+      "text": "$(0.41)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 15978,
+      "end": 15983,
+      "text": "$0.06"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16296,
+      "end": 16308,
+      "text": "$(2,232,553)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16309,
+      "end": 16317,
+      "text": "$282,011"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16342,
+      "end": 16348,
+      "text": "20,125"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16381,
+      "end": 16388,
+      "text": "488,745"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16389,
+      "end": 16396,
+      "text": "490,250"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16449,
+      "end": 16455,
+      "text": "28,545"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16456,
+      "end": 16462,
+      "text": "22,850"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16488,
+      "end": 16497,
+      "text": "2,452,701"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16498,
+      "end": 16505,
+      "text": "407,974"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16548,
+      "end": 16557,
+      "text": "(880,553)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16580,
+      "end": 16589,
+      "text": "(120,835)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16590,
+      "end": 16598,
+      "text": "(73,208)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16638,
+      "end": 16643,
+      "text": "(739)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16689,
+      "end": 16696,
+      "text": "(3,688)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16739,
+      "end": 16746,
+      "text": "464,820"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16747,
+      "end": 16756,
+      "text": "(230,103)"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16799,
+      "end": 16809,
+      "text": "$1,100,809"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16810,
+      "end": 16817,
+      "text": "$15,533"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16893,
+      "end": 16903,
+      "text": "$1,644,210"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 16937,
+      "end": 16945,
+      "text": "$475,881"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 17003,
+      "end": 17011,
+      "text": "$218,615"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 17077,
+      "end": 17085,
+      "text": "$397,891"
+    },
+    {
+      "label": "MONEY",
+      "section": "item_7",
+      "start": 17126,
+      "end": 17134,
+      "text": "$616,506"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 222,
+      "end": 241,
+      "text": "W. Austin Lewis, IV"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 259,
+      "end": 270,
+      "text": "David Scott"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 275,
+      "end": 288,
+      "text": "Andrew Pilaro"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 298,
+      "end": 312,
+      "text": "Laurie Bradley"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 322,
+      "end": 333,
+      "text": "David Ogden"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 343,
+      "end": 356,
+      "text": "Andrew Pilaro"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 658,
+      "end": 677,
+      "text": "W. Austin Lewis, IV"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 682,
+      "end": 693,
+      "text": "Allan Pratt"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 1571,
+      "end": 1584,
+      "text": "Andrew Pilaro"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 1922,
+      "end": 1941,
+      "text": "W. Austin Lewis, IV"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 2819,
+      "end": 2830,
+      "text": "David Ogden"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 3657,
+      "end": 3671,
+      "text": "Laurie Bradley"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 4673,
+      "end": 4684,
+      "text": "David Scott"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 6112,
+      "end": 6125,
+      "text": "Andrew Pilaro"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 7386,
+      "end": 7399,
+      "text": "Andrew Pilaro"
+    },
+    {
+      "label": "PERSON",
+      "section": "item_10",
+      "start": 222,
+      "end": 237,
+      "text": "W. Austin Lewis"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 242,
+      "end": 253,
+      "text": "Interim CEO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 255,
+      "end": 258,
+      "text": "CFO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 271,
+      "end": 274,
+      "text": "COO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 9,
+      "end": 17,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 64,
+      "end": 72,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 289,
+      "end": 297,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 313,
+      "end": 321,
+      "text": "Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1646,
+      "end": 1655,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1962,
+      "end": 1965,
+      "text": "CFO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 1967,
+      "end": 1978,
+      "text": "interim CEO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2016,
+      "end": 2047,
+      "text": "Chairman of the Audit Committee"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2115,
+      "end": 2138,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2244,
+      "end": 2259,
+      "text": "General Partner"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2635,
+      "end": 2646,
+      "text": "interim CEO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 250,
+      "end": 253,
+      "text": "CEO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2965,
+      "end": 2991,
+      "text": "Managing Director of Sales"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 2965,
+      "end": 2982,
+      "text": "Managing Director"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 3679,
+      "end": 3702,
+      "text": "Chief Executive Officer"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 3908,
+      "end": 3917,
+      "text": "President"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 4705,
+      "end": 4708,
+      "text": "COO"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 4742,
+      "end": 4764,
+      "text": "Director of Technology"
+    },
+    {
+      "label": "TITLE",
+      "section": "item_10",
+      "start": 7802,
+      "end": 7805,
+      "text": "CFO"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 198,
+      "end": 202,
+      "text": "PAID"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1613,
+      "end": 1617,
+      "text": "PAID"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1659,
+      "end": 1681,
+      "text": "CAP Properties Limited"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 1982,
+      "end": 1986,
+      "text": "PAID"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2052,
+      "end": 2070,
+      "text": "MAM Software, Inc."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2142,
+      "end": 2176,
+      "text": "Lewis Asset Management Corporation"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2267,
+      "end": 2289,
+      "text": "Lewis Opportunity Fund"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2142,
+      "end": 2164,
+      "text": "Lewis Asset Management"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2404,
+      "end": 2417,
+      "text": "Puglisi & Co."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2419,
+      "end": 2439,
+      "text": "Thompson Davis & Co."
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2445,
+      "end": 2468,
+      "text": "Branch Cabell & Company"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2845,
+      "end": 2871,
+      "text": "Soho Management Consulting"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2948,
+      "end": 2953,
+      "text": "FedEx"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2996,
+      "end": 3024,
+      "text": "FedEx Middle East and Africa"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 2996,
+      "end": 3001,
+      "text": "FedEx"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 3146,
+      "end": 3161,
+      "text": "FedEx Logistics"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 3235,
+      "end": 3250,
+      "text": "FedEx Logistics"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 3102,
+      "end": 3107,
+      "text": "FedEx"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 3706,
+      "end": 3728,
+      "text": "Flexible Support Group"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 3874,
+      "end": 3889,
+      "text": "ASG Renaissance"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 4712,
+      "end": 4716,
+      "text": "PAID"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 6700,
+      "end": 6724,
+      "text": "KMJ Corbin & Company LLP"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 6811,
+      "end": 6835,
+      "text": "KMJ Corbin & Company LLP"
+    },
+    {
+      "label": "ORG",
+      "section": "item_10",
+      "start": 7807,
+      "end": 7811,
+      "text": "PAID"
+    }
+  ],
+  "schema_version": "1.0"
+}
